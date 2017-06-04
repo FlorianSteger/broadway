@@ -4,10 +4,14 @@ html {
 }
 
 h1 {
-  font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
 }
 
 .header {
@@ -15,7 +19,16 @@ h1 {
 }
 
 .navigation {
-  font-family: Helvetica;
   font-size: 18px;
   color: white;
+}
+
+#subheader {
+  color: white;
+}
+
+#footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
